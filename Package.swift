@@ -12,6 +12,6 @@ let package = Package(
     targets: [
         .target(
             name: "DiffMatchPatch",
-            path: "Sources"),
+            path: "Sources/diff_match_patch"),
     ]
 )
